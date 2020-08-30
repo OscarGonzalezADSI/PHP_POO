@@ -28,5 +28,33 @@
 		<td>
             <a href="../Lecciones/Excepciones/Ejemplo1.php">Excepciones</a>
 		</td>
+		<td>
+            <a href="../Lecciones/PHP_Form_Validation">PHP_Form_Validation</a>
+		</td>
 	</tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
