@@ -2,11 +2,8 @@
 include "../Lecciones/ClasesObjetos/ClaseHerencia.php";
 include "../Lecciones/ClasesObjetos/ClaseHerenciaAnulacion.php";
 include "../Lecciones/ClasesObjetos/ClaseHerenciaNoAnulacion.php";
-
-echo "</br>";
-
+echo "Herencia";
 include "menu.php";
-
 include "../Lecciones/ClasesObjetos/Objetos/ObjetoClaseHerencia.php";
 
 // -------------------------------------------------------------------

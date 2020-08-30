@@ -4,7 +4,7 @@ include "../Lecciones/ClasesObjetos/ClaseAbstracta.php";
 include "../Lecciones/ClasesObjetos/ClaseAbstractaCondicional.php";
 include "../Lecciones/ClasesObjetos/ClaseAbstractaParametrosAdd.php";
 
-echo "</br>";
+echo "ClasesAbstraptas";
 include "menu.php";
 ?>
 <?php echo "<br>";?>

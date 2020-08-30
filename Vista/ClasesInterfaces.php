@@ -2,7 +2,7 @@
 include "../Lecciones/ClasesObjetos/Interfaces/ClaseInterface.php";
 include "../Lecciones/ClasesObjetos/Interfaces/ClaseInterfacePersonajes.php";
 
-echo "</br>";
+echo "ClasesInterfaces";
 include "menu.php";
 
 include "../Lecciones/ClasesObjetos/Interfaces/Objetos/ObjetoClaseInterface.php";

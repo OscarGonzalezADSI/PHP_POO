@@ -3,7 +3,7 @@ include "../Lecciones/MetodosEstaticos/MetodosEstaticos.php";
 include "../Lecciones/MetodosEstaticos/MetodosEstaticosInternos.php";
 include "../Lecciones/MetodosEstaticos/MetodosEstaticosPublicos.php";
 include "../Lecciones/MetodosEstaticos/MetodosEstaticosSubClase.php";
-echo "</br>";
+echo "MetodosEstaticos;";
 include "menu.php";
 echo "</br>";
 include "../Lecciones/MetodosEstaticos/PuntosDobles/MetodosEstaticos.php";

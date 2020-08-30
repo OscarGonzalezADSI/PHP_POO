@@ -25,5 +25,8 @@
 		<td>
             <a href="MetodosEstaticos.php">MetodosEstaticos</a>
 		</td>
+		<td>
+            <a href="../Lecciones/Excepciones/Ejemplo1.php">Excepciones</a>
+		</td>
 	</tr>
 </table>
