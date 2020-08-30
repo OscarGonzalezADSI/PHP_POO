@@ -26,7 +26,7 @@ Excepciones<br>
             <a href="../../Vista/MetodosEstaticos.php">MetodosEstaticos</a>
 		</td>
 		<td>
-            <a href="../../Vista/Excepciones.php">Excepciones</a>
+            <a href="Ejemplo1.php">Excepciones</a>
 		</td>
 	</tr>
 </table>
